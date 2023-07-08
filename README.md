@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Ya-Yun-Zheng/Ya-Yun-Zheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />鄭雅云 #Ya-Yun-Zheng
 
-Hi, I'm Clark! I am a front-end Developer of web. I love learing new technology and skills of web, I writting articles about technology of program I leanrned on [dev.to](https://dev.to/ms314006). I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.
+Hi, I'm Ya-Yun-Zheng! I am a front-end Developer of web. I love learing new technology and skills of web. I leaving in Kaohsiung, Taiwan now.
+I hope I can be able to create a personal website or have my own online portfolio of my life. Because the front-end helps to improve user experience and make web pages more interactive, so I take a liking to become a front-end engineer and have the opportunity to be a member of the website development team to participate in the design of various interactive and innovative web applications.
 
 ## 🤓 My values
 🍏 Beginner's mindset and curiosity<br>
