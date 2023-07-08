@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />鄭雅云 #Ya-Yun-Zheng
+## <img width="50px" src="https://i.pinimg.com/originals/a1/54/4f/a1544f4870f4a048301417809a193755.gif" /> 鄭雅云  #Ya-Yun-Zheng
 
 Hi, I'm Ya-Yun-Zheng! I am a front-end Developer of web. I love learing new technology and skills of web. I leaving in Kaohsiung, Taiwan now.
-I hope I can be able to create a personal website or have my own online portfolio of my life. Because the front-end helps to improve user experience and make web pages more interactive, so I take a liking to become a front-end engineer and have the opportunity to be a member of the website development team to participate in the design of various interactive and innovative web applications.
+I hope I can be able to create a personal website or have my own online portfolio of my life. Because the front-end helps to improve user experience and make web pages more interactive, so I take a liking to become a front-end engineer and have the opportunity to be a member of the website development team.
 
 ## 🤓 My values
 🍏 Beginner's mindset and curiosity<br>
