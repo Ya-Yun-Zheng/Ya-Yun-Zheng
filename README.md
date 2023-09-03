@@ -38,7 +38,7 @@ I React<br>
 I Bootstrap<br>
 
 
-### 🔧 TOOL
+### 🔧 Tool
 I Node.js 14.21.<br>
 I Sass 1.26.7<br>
 I React 18.2.0<br>
@@ -50,6 +50,7 @@ I jsonwebtoken 8.5.1<br>
 I Simple twitter<br>
 
 ## 🔗 GET IN TOUCH
+### Personal Page
 I [Facebook](https://www.facebook.com/profile.php?id=100012681346904)
 ### Atom Skool
 I [Instagram](https://instagram.com/atom_skool?igshid=MzRlODBiNWFlZA==)
