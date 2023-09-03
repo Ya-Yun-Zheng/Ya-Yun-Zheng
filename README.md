@@ -47,7 +47,7 @@ I clsx 1.2.1<br>
 I jsonwebtoken 8.5.1<br>
 
 ## 💡 PROJECTS
-I Simple twitter<br>
+I [Simple twitter](https://james-lee-01.github.io/simple-twitter)<br>
 
 ## 🔗 GET IN TOUCH
 ### Personal Page
