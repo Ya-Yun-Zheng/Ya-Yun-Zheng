@@ -23,7 +23,7 @@ I hope I can be able to create a personal website or have my own online portfoli
 🗂️ being efficient at work<br>
 🌠 full of enthusiasm for life<br>
 
-## 🔭 GOALS OF 2023 
+## 🔭 GOALS OF 2024 
 
 I Run a marathon<br>
 I Learn Japanese<br>
